@@ -1,0 +1,18 @@
+{
+  "name": "alx-files_manager",
+  "version": "1.0.0",
+  "description": "This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.",
+  "main": "touch index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alx-files_manager"
+  },
+  "author": "Siba Quma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
